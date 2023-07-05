@@ -1,0 +1,132 @@
+.main{
+    background-image: url(./wallpaperflare.com_wallpaper.jpg);
+    margin: auto;
+    height: 1000px;
+    width: 970px;
+}
+.main h1{
+    text-align: center;
+    padding: 20px 0;
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 2px 4px 2px 4px;
+    text-decoration: underline;
+}
+.main1{
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* background-image:none;
+    background-color: none; */
+    background: transparent;
+    height: 780px;
+    width: 730px;
+    margin: auto;
+    border: 1px solid white;
+    box-shadow: 2px 4px 2px 4px;
+    padding: 20px 10px;
+    gap: 40px;
+}
+
+
+
+
+
+    
+
+textarea{
+    border-color: rgb(190, 187, 187);
+}
+input[type=text]{
+    border-radius: 10px;
+    width: 160px;
+    font-size: 12px;
+    padding: 5px;
+    background: transparent;
+    color: white;
+
+}
+ label:hover{
+    text-decoration: underline;
+}
+ 
+input[type=number]{
+    border-radius: 10px;
+    width: 200px;
+    font-size: 12px;
+    padding: 5px;
+    background: transparent;
+    color: white;
+
+}
+select{
+    border-radius: 10px;
+    padding: 5px;
+    background: transparent;
+    color: white;
+    
+}
+option{
+    background: transparent;
+   color: black;
+}
+input[type=email]{
+    border-radius: 10px;
+    width: 200px;
+    font-size: 12px;
+    padding: 5px;
+    background: transparent;
+    color: white;
+}
+form{
+    color: white;
+    padding: 10px 15px;
+    font-size: 12px;
+    font-weight: bold;
+    backdrop-filter: blur(15px);
+    /* background: transparent; */
+    
+}
+.na{
+    background: transparent;
+    color: white;
+}
+table tr th td{
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+}
+table input[type=text]{
+    width: 150px;
+    border-radius: 10px;
+    color: white;
+}
+input.n1{
+    width: 164px;
+}
+input.n2{
+    width: 141px;
+}
+input.n3{
+    width: 141px;
+}
+input.n4{
+    width: 182px;
+}
+input.n5{
+    width: 168px;
+}
+input.n6{
+    width: 213px;
+}
+input.n7{
+    width: 187px;
+}
+input.n8{
+    width: 209px;
+}
+input.n9{
+    width: 187px;
+}
+button:hover{
+    background-color: gold;
+}
